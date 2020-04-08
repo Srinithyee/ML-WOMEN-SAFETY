@@ -2,7 +2,7 @@ library(caTools)
 library(ggplot2)
 library(caret)
 
-#------------------------DATA PREPROCESSING---------------------------
+#------------------------DATA PREPROCESSING----------------------------
 
 #Considering that the data has several parameters,the factor function is used for assign a distinct numerical value
 
